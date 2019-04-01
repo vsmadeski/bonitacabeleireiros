@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+#manuText {
+    color: white;
+    padding-top: 30px;
+}
+
+#manuText h3 {
+    font-family: bonitaFont;
+    text-align: center;
+    font-size: 2rem;    
+}
+
+@font-face {
+    font-family: bonitaFont;
+    src: url(../fonts/Signature.ttf);
+}
